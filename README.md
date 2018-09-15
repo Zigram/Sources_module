@@ -1,2 +1,2 @@
 # Sources_module
-My first repository
+This code will help us develop a sources module for our projects
